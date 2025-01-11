@@ -5,9 +5,6 @@ Sistem manajemen stok barang dengan fitur pencatatan barang masuk, barang keluar
 [![Aplikasi Stock Barang Sederhana](https://img.youtube.com/vi/L8Ueqej5e-8/0.jpg)](https://youtube.com/L8Ueqej5e-8)
 
 Panduan aplikasi pengelolaan stok barang.  
-Klik tautan di bawah ini untuk mengunduh file PDF:
 
-[Download Aplikasi Stock Barang](https://github.com/Adinda-Nur-Azizah/aplikasi-stok-barang/blob/main/Aplikasi%20Sock%20Barang.pdf)
-
-Atau klik ikon berikut untuk unduhan langsung:  
+Klik ikon berikut untuk mengunduh file PDF:  
 [![PDF](https://img.icons8.com/color/48/000000/pdf.png)](https://github.com/Adinda-Nur-Azizah/aplikasi-stok-barang/blob/main/Aplikasi%20Sock%20Barang.pdf)
